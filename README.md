@@ -1,4 +1,4 @@
-# 🦴 AidMyOsteo – Knee Osteoarthritis Detection and Patient Care System
+# 🦵💻 AidMyOsteo – Knee Osteoarthritis Detection and Patient Care System
 
 "AidMyOsteo" is an AI based web application that is capable of detecting **Knee Osteoarthritis severity (KOA)** using X-ray images and provides personalized **patient care recommendations** including exercises and nutritional guidance based on severity detected and user's demographic data.
 
