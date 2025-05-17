@@ -1,0 +1,121 @@
+Severity,Gender,Age Group,Weight Category,Exercise 1,Exercise 2,Nutritional Advice 1,Nutritional Advice 2
+Normal,Male,Under 20,Underweight,Bodyweight Squats,Short Sprints,"Increase Calorie Intake (Nuts, Dairy)","Add Protein-Rich Diet (Chicken, Eggs,Fish)"
+Normal,Male,Under 20,Normal Weight,Jump Rope,Running,Have Balanced Macronutrients,Stay Hydrated (2.5L water daily)
+Normal,Male,Under 20,Overweight/Obese,Strength Training (Seated Leg Presses),"Cycling, Walking",Reduce Sugar & Refined Carbs,"Increase Fiber-Rich Foods (Vegetables, Whole Grains)"
+Normal,Male,20-40,Underweight,Squats &  Lunges,Jump Rope,"Add High-Protein, High-Calorie Foods","Add Healthy Fats (Avocado, Nuts)"
+Normal,Male,20-40,Normal Weight,Dynamic Stretching,"Running, Cycling,Swimming",Increase Whole Grains & Lean Proteins,"Increase Omega-3 intake (Fish, Walnuts)"
+Normal,Male,20-40,Overweight/Obese,"Cycling, Swimming",Stretching  Exercises,Reduce Processed Carbs,"Increase Protein, Fiber & Healthy Fats Intake"
+Normal,Male,40-60,Underweight,Resistance Bands,"Walking, Cycling","High-Calorie, Nutrient-Dense Diet",Increase Vitamin D & Calcium-Rich Foods
+Normal,Male,40-60,Normal Weight,Yoga,Light Strength Training,"Balanced Diet with Healthy Fats, Lean Protein",Maintain Hydration & Fiber Intake
+Normal,Male,40-60,Overweight/Obese,Water Aerobics,Brisk Walking,"Add Anti-Inflammatory Foods (Fatty Fish,Turmeric, Ginger)",Reduce Salt Intake
+Normal,Male,Over 60,Underweight,Chair Exercises,Tai Chi,Include Dairy & Protein for Bone Health,Take Frequent Small Meals
+Normal,Male,Over 60,Normal Weight,"Walking, Swimming",Stretching,Add Antioxidant-Rich Foods,"Increase Protein, Fiber & Healthy Fats Intake"
+Normal,Male,Over 60,Overweight/Obese,Strength Training (Seated Leg Presses),"Walking, Cycling",Increase Fiber-Rich Foods Intake,"Include Anti-Inflammatory Foods(Nuts, Olive Oil, Berries)"
+Normal,Female,Under 20,Underweight,Bodyweight Workouts,Dance Aerobics,Increase Calcium-Rich Foods,Take Small Frequent Meals
+Normal,Female,Under 20,Normal Weight,Dance Workouts,"Cycling, Swimming",Balanced Diet With Adequate Protein & Vitamins,Increase Vitamin D Intake
+Normal,Female,Under 20,Overweight/Obese,"Brisk Walking, Swimming",Resistance Bands,Cut Down On Sugary Drinks,"Increase Protein & Fiber Intake (Lean Meats, Legumes, Whole Grains)"
+Normal,Female,20-40,Underweight,"Yoga, Pilates",Resistance Training,Increase High-Calorie Healthy Foods,"Increase Omega-3 Intake (Flaxseeds, Walnuts)"
+Normal,Female,20-40,Normal Weight,Jogging,Yoga,"Balanced Macronutrients (Proteins, Carbs, Healthy fats)",Focus On Hydration
+Normal,Female,20-40,Overweight/Obese,"Swimming, Cycling",Brisk Walking,"Include High-Fiber, Protein-Rich Meals","Add Anti-Inflammatory Foods (Avocados, Nuts, Berries) "
+Normal,Female,40-60,Underweight,Light Strength Training,Yoga,Healthy Fats For Joint Support,"Include Calcium-Rich Foods (Dairy, Almonds)"
+Normal,Female,40-60,Normal Weight,Pilates,Brisk Walking,Increase Vitamin C Intake,"Balanced Macronutrient Intake (Lean Proteins, Whole Grains)"
+Normal,Female,40-60,Overweight/Obese,Cycling,"Yoga, Pilates",Reduce Processed Foods,Increase Fiber Intake
+Normal,Female,Over 60,Underweight,Chair Yoga,Light Resistance Training,"Increase Vitamin D & Calcium (Beans, Fish)","Consume Healthy Fats (Avocados, Nuts)"
+Normal,Female,Over 60,Normal Weight,"Walking, Cycling",Stretching,"Increase Whole Foods, Fruits & Vegetables",Stay Hydrated (2.5L water daily)
+Normal,Female,Over 60,Overweight/Obese,Water Aerobics,Seated Exercises,Cut Down On Sodium,"Increase Fiber Intake (Whole Grains, Vegetables)"
+Doubtful,Male,Under 20,Underweight,"Wall Sits, Calf Raises",Light Jogging,Increase Calorie Intake (Healthy Fats),"Increase Omega-3-Rich Foods(Salmon,Flaxseed)"
+Doubtful,Male,Under 20,Normal Weight,Foam Rolling & Stretching,Cycling,"Add Anti-Inflammatory Foods (Turmeric, Ginger)",Stay hydrated (2.5L water daily)
+Doubtful,Male,Under 20,Overweight/Obese,Brisk Walking,"Bodyweight Squats, Leg Raises",Reduce Processed Sugars,"Increase Lean Proteins (Chicken, Fish, Tofu)"
+Doubtful,Male,20-40,Underweight,"Low Impact Activities (Jumping, Sprinting)",Step-Ups,"Include Anti-Inflammatory Foods (Ginger, Turmeric)",Increase Calcium & Vitamin D-Rich Foods
+Doubtful,Male,20-40,Normal Weight,"Leg Strengthening Workouts(Squats,Lunges,Calf Raises)",Rowing Exercise,Add Lean Proteins & Whole Grains,"Add Omega-3 Rich Foods (Salmon, Flaxseeds)"
+Doubtful,Male,20-40,Overweight/Obese,Water Aerobics,Brisk Walking,"Increase Anti-Inflammatory Foods (Green Veggies, Nuts)",Increase Fiber & Hydration
+Doubtful,Male,40-60,Underweight,Resistance Bands,"Low Impact Workouts (Stationary Bike, Swimming)","Increase Healthy Fats (Avocados, Nuts, Olive Oil)",Include Vitamin D & Calcium Rich Foods
+Doubtful,Male,40-60,Normal Weight,Yoga,"Seated Leg Raises, Calf Raises",Antioxidant-Rich Diet,Increase Intake of Vitamin D & Calcium
+Doubtful,Male,40-60,Overweight/Obese,"Swimming, Walking",Brisk Walking,Increase Fiber & Protein Intake,Reduce Salt Intake
+Doubtful,Male,Over 60,Underweight,Gentle Stretching ,Yoga,"Increase Omega-3 Rich Foods (Salmon, Walnuts)",Take Frequent Small Meals
+Doubtful,Male,Over 60,Normal Weight,Water Based Exercises,"Gentle Squats, Seated Leg Extensions",Include Whole Foods with Essential Nutrients,Focus on Hydration
+Doubtful,Male,Over 60,Overweight/Obese,Seated Leg Raises,Water Aerobics/Walking on Soft Surfaces,"Increase Protein Intake (Eggs, Chicken, Fish)",Increase Fiber-Rich Foods
+Doubtful,Female,Under 20,Underweight,"Pilates, Yoga","Bodyweight Squats, Resistance Bands",Increase Calcium & Vitamin D Rich Foods,Increase Healthy Calories
+Doubtful,Female,Under 20,Normal Weight,"Hip Flexors, Quads",Bodyweight Exercises,Increase Leafy Greens & Lean Protein Intake,Maintain Steady Blood Sugar Levels 
+Doubtful,Female,Under 20,Overweight/Obese,"Swimming, Water Aerobics","Mini Squats, Seated Leg Lifts",Cut Down On Sugary Drinks,"Include Anti-Inflammatory Foods (Berries, Turmeric, Ginger, Salmon)"
+Doubtful,Female,20-40,Underweight,"Seated Leg Raises, Step-Ups",Resistance Training,"Add Healthy Fats (Nuts, Seeds)","Increase Lean Proteins (Chicken, Fish, Tofu)"
+Doubtful,Female,20-40,Normal Weight,Resistance Band Exercises,Yoga,"Increase Vitamin C & D for Collagen Production (Citrus, Dairy, Eggs)",Reduce Processed Foods & Sugar
+Doubtful,Female,20-40,Overweight/Obese,"Swimming, Aqua Aerobics",Brisk Walking,Increase Fiber & Protein Intake,"Boost Omega-3s (Salmon, Flaxseeds, Walnuts) "
+Doubtful,Female,40-60,Underweight,"Aqua Aerobics, Swimming",Yoga,"Increase Healthy Fats (Olive Oil, Nuts)",Increase Protein Intake (Lean Meat)
+Doubtful,Female,40-60,Normal Weight,Resistance Band Training,"Brisk Walking, Swimming",Increase Vitamin C Intake,"Increase Omega-3 Fatty Acids (Salmon, Walnuts)"
+Doubtful,Female,40-60,Overweight/Obese, Chair-Assisted Exercises,Resistance Bands,"Consume Calcium-Rich Foods (Leafy Greens, Dairy)","Increase Omega-3 intake (Salmon, Flaxseeds)"
+Doubtful,Female,Over 60,Underweight,Swimming,"Leg Lifts,Small Squats",Increase Vitamin D & Calcium Intake,Consume More Whole Grains & Fiber-Rich Foods
+Doubtful,Female,Over 60,Normal Weight,Seated Leg Lifts,Gentle Step-Ups,"Increase Lean Proteins (Chicken, Fish, Tofu)",Stay Hydrated (2.5 L water daily)
+Doubtful,Female,Over 60,Overweight/Obese,"Mini Squats, Seated Leg Lifts","Water Aerobics,Walking on Soft Surfaces",Reduce Processed Carbs & Sugar,"Increase Lean Proteins (Chicken, Fish, Tofu)"
+Mild,Male,Under 20,Underweight,Swimming,Gentle Yoga,Increase Vitamin C Sources,"Include Protein-Rich foods (Eggs, Fish)"
+Mild,Male,Under 20,Normal Weight,Resistance Band Exercises,Low-Impact Cardio,Increase Calcium & Magnesium Intake,Avoid Processed Food & Excessive Sugar
+Mild,Male,Under 20,Overweight/Obese,"Leg Presses, Seated Knee Extensions","Cycling , Water Exercises",Reduce Processed Sugars & Processed Snacks,"Increase Collagen-Boosting Foods (Bone Broth, Citrus Fruits)"
+Mild,Male,20-40,Underweight,"Seated Exercises (Leg Lifts, Resistance Bands)",Pool Exercises,"Increase Omega-3 Rich Foods (Salmon, Walnuts)","Increase Collagen-Foods (Bone Broth, Citrus Fruits)"
+Mild,Male,20-40,Normal Weight,"Quad Exerxises (Wall Sits, Split Squats)",Resistance Band Training,Increase Green Leafy Vegetables & Nuts ,Focus on Glucosamine & Chondroitn intake
+Mild,Male,20-40,Overweight/Obese,Seated or Low-Impact Standing Exercises,"Glutes, Quads, Hamstrings",Increase the Vitamin D Intake,"Increase Omega-3 intake (Fish, Walnuts)"
+Mild,Male,40-60,Underweight,"Calf Raises, Leg Lifts",Water Based Exercises,"More Complex Carbs (Whole Grains, Potatoes)","Maintain Protein Intake (Chicken, Tofu, Dairy)"
+Mild,Male,40-60,Normal Weight,Bodyweight Squats,Resistance Band Exercises,Increase Collagen-Rich Foods (Bone Broth. Citrus Fruits),Maintain Hydration
+Mild,Male,40-60,Overweight/Obese,Resistance Bands Training,Gentle Yoga,"Prioritize Omega-3s (Salmon, Walnuts)",Increase Daily Protein Intake
+Mild,Male,Over 60,Underweight,Stationary Cycling,Gentle Knee Extensions/Ankle Pumps,Add Calcium & Magnesium-Rich Foods,Limited Processed Foods
+Mild,Male,Over 60,Normal Weight,Resistance Band Exercises,Seated or Law Impact Exercises,Increase Intake of Citrus Fruits & Leafy Greens,Stay hydrated (2.5L water daily)
+Mild,Male,Over 60,Overweight/Obese,Aquatic Therapy ,Chair Assisted Squats,Reduce Refined Sugars,Increase Fiber-Rich Foods
+Mild,Female,Under 20,Underweight,"Yoga, Dynamic Stretches",Cycling,"Boost Collagen & Protein Intake (Bone broth, Chicken, Eggs)",Take Small Frequent Meals
+Mild,Female,Under 20,Normal Weight,"Cycling, Pilates",Gentle Squats,"Add Anti-Inflammatory Foods (Turmeric, Ginger)",Stay hydrated (2.5L water daily)
+Mild,Female,Under 20,Overweight/Obese,Brisk Walking,"Leg Raises, Isometric Holds",Increase Vitamin D Intake,"Increase Healthy Fats (Olive Oil, Nuts, Avocados)"
+Mild,Female,20-40,Underweight,Hydrotherapy (Water Based Exercises),Resistance Training,Increase High-Calorie Healthy Foods,"Include Vitamin D & Calcium-Rich Foods (Dairy, Leafy Greens)"
+Mild,Female,20-40,Normal Weight,Running,"Leg Presses, Step-Ups, Glute Bridges",Increase Collagen & Glucosamine Intake,Focus More On Hydration
+Mild,Female,20-40,Overweight/Obese,Swimming,"Non-Weight-Bearing Cardio (Cycling, Rowing Machine)","Add Anti-Inflammatory Foods (Turmeric, Ginger)",Increase Fiber-Rich Foods
+Mild,Female,40-60,Underweight,Light Strength Training,"Seated Leg Presses, Glute Bridges","Boost Omega-3 intake (Fatty Fish, Walnuts)",Increase Lean Proteins
+Mild,Female,40-60,Normal Weight,"Quad, Hamstring Stretches","Leg Raises, Calf Raises",Boost Vitamin C & Collagen Intake,Maintain Well Balanced Meals
+Mild,Female,40-60,Overweight/Obese,Stationary Biking ,Resistance Bands Training,Reduce Processed Foods & Sugar,Add Vitamin C-Rich Foods
+Mild,Female,Over 60,Underweight,Gentle Leg Presses,Calf & Hamstring Stretches,"Increase Collagen Intake (Bone Broth, Citrus Fruits)",Small Nutrient-Dense Meals
+Mild,Female,Over 60,Normal Weight,Resistance Training,Gentle Yoga or Pilates,"Whole Foods, Fruits & Vegetables",Limit Processed Sugar & Salt Intake
+Mild,Female,Over 60,Overweight/Obese,Modified Squats & Lunges (With Chair Support),Seated Exercises,"Increase Omega-3 Intake (Salmon, Walnuts)",Reduce Salt & Processed Food & Sugar
+Moderate,Male,Under 20,Underweight,Light Resistance Training,Stationary Cycling,Increase Protein Intake,"More Calcium & Magnesium (Almonds,Dairy)"
+Moderate,Male,Under 20,Normal Weight,Hydrotherapy (Water Based Exercises),Low-impact Jump Rope,Have Balanced Macronutrients,"Increase Vitamin K Sources (Broccoli, Spinach)"
+Moderate,Male,Under 20,Overweight/Obese,Swimming & Water Exercises,"Seated Leg Lifts, Resistance Bands",Reduce Sugar & Excess Salt,"Increase Joint Supporting Nutrients (Glucosamine, Omega-3s)"
+Moderate,Male,20-40,Underweight,Hydrotherapy (Water Based Exercises),Seated Exercises ( Gentle Stretches),Increase Joint-Supporting Nutrients (Glucosamine),Stay Hydrated (2.5 L water daily)
+Moderate,Male,20-40,Normal Weight,Seated Squats,Gentle Stretching Exercises,"Increase Omega-3 Rich Foods (Salmon, Walnuts)",Increase hydration
+Moderate,Male,20-40,Overweight/Obese,Water Based Therapy,Gentle Yoga,"Add Turmeric, Ginger & Green Tea for Joint Pain","Increase Protein Intake (Lean Meat, Legumes)"
+Moderate,Male,40-60,Underweight,Resistance Bands,"Aquatic Therapy ,Hydrotherapy",Protein-Rich Foods for Muscle Maintenance,Include Calcium & Vitamin D-rich foods
+Moderate,Male,40-60,Normal Weight,Stationary Cycling,"Leg Lifts, Knee Extensions",Antioxidant-Rich Diet,Maintain High Protein & High Calcium Diet
+Moderate,Male,40-60,Overweight/Obese,Light Squats,Stationary Cycling,Increase Vitamin D Intake,Reduce Sugar & Refined Carbs
+Moderate,Male,Over 60,Underweight,Seated & Lying Leg Lifts,Tai Chi,"Increase Vitamin K (Spinach, Kale)",Drink Enough Fluids
+Moderate,Male,Over 60,Normal Weight,Seated & Aquatic Exercises,Stretching (Leg lifts),Increase Calcium & Magnesium Intake ,Reduce Salt Intake
+Moderate,Male,Over 60,Overweight/Obese,Isometric Exercises (Light Squats),Resistance Bands,Increase Vitamin C Sources,"Add Collagen-Boosting Foods (Bone Broth, Citrus Fruits)"
+Moderate,Female,Under 20,Underweight,Water Based Workouts,Dance Aerobics,Increase Calcium & Iron-Rich Foods,Monitor Caloric Intake to Avoid Muslce Loss
+Moderate,Female,Under 20,Normal Weight,Swimming & Water Exercises,Seated Squats,Increase Leafy Greens & Lean Protein,"Increase Omega-3 Intake (Avocados, Nuts)"
+Moderate,Female,Under 20,Overweight/Obese,Chair Assisted Workouts,Aquatic Therapy ,Increase Adequate Protein Intake,"Focus On Anti-Inflammatory Diet (Green Vegies, Omega 3s)"
+Moderate,Female,20-40,Underweight,Pilates,"Resistance Training, Gentle Stretching","Increase Anti-Inflammatory  Foods (Ginger, Turmeric, Salmon)","Collagen-Boosting Foods (Bone Broth, Citrus Fruits)"
+Moderate,Female,20-40,Normal Weight,"Bodyweight Squats, Seated Leg Raises",Stationary Bike,Increase Whole Grains & Lean Proteins,"Increase Calcium, Magnesium & Vitamin D"
+Moderate,Female,20-40,Overweight/Obese,Chair-Assisted Exercises,Seated Leg Exercises,"Increase Calcium, Magnesium,  Vitamin D","Reduce Processed Meats, Excess Sugars"
+Moderate,Female,40-60,Underweight,Hydrotherapy (Water Based Exercises),Pilates,Limit Processed Foods & Excessive Caffein,"Increase Vitamin K (Leafy Greens, Broccoli)"
+Moderate,Female,40-60,Normal Weight,Bodyweight Movements,Seated Exercises,"Increase Fiber-Rich Foods (Fruits, Vegetables)",Limit Red Meat & Processed Foods
+Moderate,Female,40-60,Overweight/Obese,"Gentle Leg Extensions, Hip Bridges",Pool Exercises,"Increase Protein Intake (Eggs, Chicken, Fish)",Consume More Plant Based Foods
+Moderate,Female,Over 60,Underweight,Aquatic Therapy,Resistance Training,Consume High-Protein Meals,"Eat Calcium-Rich Foods (Dairy, Tofu)"
+Moderate,Female,Over 60,Normal Weight,Step-Ups With Support,Chair-Assisted Stretches,"Collagen-Boosting Foods (Bone Broth, Citrus Fruits)","Increase Calcium, Magnesium & Vitamin D"
+Moderate,Female,Over 60,Overweight/Obese,Seated Leg Lifts & Knee Extensions,Hydrotherapy (Water Based Exercises),Focus On Protein Control,Increase Plant-Based Meals
+Severe,Male,Under 20,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,Under 20,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,Under 20,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,20-40,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,20-40,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,20-40,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,40-60,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,40-60,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,40-60,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,Over 60,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,Over 60,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Male,Over 60,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,Under 20,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,Under 20,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,Under 20,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,20-40,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,20-40,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,20-40,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,40-60,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,40-60,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,40-60,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,Over 60,Underweight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,Over 60,Normal Weight,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
+Severe,Female,Over 60,Overweight/Obese,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage,Please Seek Immediate Professional Medical Attention At This Stage
