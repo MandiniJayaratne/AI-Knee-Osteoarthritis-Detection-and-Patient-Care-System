@@ -11,7 +11,7 @@
 - 💡 User uploading X-ray image of the knee
 - 💡 User uploading Age Group, Gender, Weight and Height
 - 💡 Knee Osteoarthritis severity detection according to Kellgren Lawrence grades(G0-Normal/G1-Doubtful/G2-Mild/G3-Moderate/G4-Severe)
-- 💡 Personalized Exercises and Nutritional Guidance recommendation
+- 💡 Personalized Exercises and Nutritional Guidance recommendation based on severity detected and individual demographic data.
 
 
 
