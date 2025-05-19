@@ -6,7 +6,7 @@
 
 ## ✨ Features
 
-### 👨‍⚕️ Features
+
 - 💡 User Registration and LogIn
 - 💡 User uploading X-ray image of the knee
 - 💡 User uploading Age Group, Gender, Weight and Height
