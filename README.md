@@ -14,6 +14,7 @@
 - 💡 Personalized Exercises and Nutritional Guidance recommendation
 
 
+
 ---
 
 ## 🛠️ Technologies Used
